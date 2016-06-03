@@ -16,7 +16,7 @@
 ## After you learn the syntax time to be there.
 
 - Courses 
-  - [ ] [WhatAndCode] (http://watchandcode.com/)
+  - [ ] [WhatchAndCode] (http://watchandcode.com/)
  
 - Books
   - [ ] [Eloquent JavaScript] (http://eloquentjavascript.net/)
