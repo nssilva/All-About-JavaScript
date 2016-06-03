@@ -9,6 +9,7 @@
 
 - Books
   - [ ] [JavaScript for Cats] (http://jsforcats.com/)
+  - [ ] [Speaking JavaScript] (http://speakingjs.com/es5/)
 
 # Intermediate
 
@@ -28,3 +29,12 @@
     - [ ] [Node.js Tutorials] (https://www.youtube.com/playlist?list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh)
   - Books
     - [ ] [Up and running with Node.js] (http://chimera.labs.oreilly.com/books/1234000001808/index.html) Advanced stuff here 
+
+# About React
+  - Courses
+    - [ ] [React For Everyone] (https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
+    - [ ] [React JS Tutorials] (https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
+  
+  - Books
+    - [ ] [SurviveJs] (http://survivejs.com/) About webpack too 
+  
