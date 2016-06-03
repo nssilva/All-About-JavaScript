@@ -36,5 +36,10 @@
     - [ ] [React JS Tutorials] (https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
   
   - Books
-    - [ ] [SurviveJs] (http://survivejs.com/) About webpack too 
+    - [ ] [SurviveJs] (http://survivejs.com/) About webpack too
+  
+# About Redux
+  - Courses
+    - [ ] [Getting Started with Redux] (https://egghead.io/series/getting-started-with-redux)
+    - [ ] [Rally Coding Channel on Youtube] (https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg) 
   
