@@ -21,6 +21,7 @@ This is a markdown file so for check just add a x inside the brackets
 
 - Courses 
   - [ ] [WhatchAndCode] (http://watchandcode.com/) [Free]
+  - [ ] [Functional Programming in JavaScript] (https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) [Free]
  
 - Books
   - [ ] [Eloquent JavaScript] (http://eloquentjavascript.net/) [Free]
