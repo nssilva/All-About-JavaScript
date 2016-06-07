@@ -3,6 +3,7 @@
 ## Where to start ?
 
 1. [Links for learning JavaScript] (https://github.com/FreeCodeCampCalgary/All-About-JavaScript/blob/master/Links.md)
+2. A good way to learn JavaScript is learn to [jQuery] (https://jquery.com/) first
 
 ## Improve your skill
 
