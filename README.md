@@ -16,14 +16,31 @@
 ## Basic JS Exercises that are free to try
 Here are some that I've found if you want to add them:
 
+[Teaching Materials] (http://www.teaching-materials.org/javascript/)
 1. [If/Els] (http://www.teaching-materials.org/javascript/exercises/ifelse.html)
 2. [For Loops] (http://www.teaching-materials.org/javascript/exercises/forloops.html)
 3. [Arrays] (http://www.teaching-materials.org/javascript/exercises/arrays.html)
 4. [Functions] (http://www.teaching-materials.org/javascript/exercises/functions.html)
 5. [Variables] (http://www.teaching-materials.org/javascript/exercises/variables.html)
 
-**All the above exercises were found here:**
-[Teaching Materials] (http://www.teaching-materials.org/javascript/)
+[W3Resource] (http://www.w3resource.com/javascript-exercises/)
+1. http://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
+2. (http://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php)
+3. (http://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php)
+4. (http://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php)
+5. (http://www.w3resource.com/javascript-exercises/javascript-array-exercises.php)
+6. (http://www.w3resource.com/javascript-exercises/javascript-date-exercises.php)
+7. (http://www.w3resource.com/javascript-exercises/javascript-string-exercises.php)
+8. (http://www.w3resource.com/javascript-exercises/javascript-math-exercises.php)
+9. (http://www.w3resource.com/javascript-exercises/javascript-regexp-exercises.php)
+10. (http://www.w3resource.com/javascript-exercises/javascript-dom-exercises.php)
+11. (http://www.w3resource.com/javascript-exercises/javascript-drawing-exercises.php)
+12. (http://www.w3resource.com/javascript-exercises/javascript-object-exercises.php)
+13. (http://www.w3resource.com/javascript-exercises/validation/index.php)
+14. (http://www.w3resource.com/javascript-exercises/searching-and-sorting-algorithm/index.php)
+
+**[Solutions are below the exercises: Scroll!] (http://www.w3resource.com/javascript-exercises/)**
+
 
 ## Interviews questions
 
