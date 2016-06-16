@@ -14,16 +14,16 @@
 5. [CodeFight] (https://codefights.com/) FUN
 
 ## Basic JS Exercises that are free to try
-Here are some that I've found if you want to add them:
+### [Teaching Materials] (http://www.teaching-materials.org/javascript/)
 
-[Teaching Materials] (http://www.teaching-materials.org/javascript/)
 1. [If/Els] (http://www.teaching-materials.org/javascript/exercises/ifelse.html)
 2. [For Loops] (http://www.teaching-materials.org/javascript/exercises/forloops.html)
 3. [Arrays] (http://www.teaching-materials.org/javascript/exercises/arrays.html)
 4. [Functions] (http://www.teaching-materials.org/javascript/exercises/functions.html)
 5. [Variables] (http://www.teaching-materials.org/javascript/exercises/variables.html)
 
-[W3Resource] (http://www.w3resource.com/javascript-exercises/)
+###[W3Resource] (http://www.w3resource.com/javascript-exercises/)
+
 1. http://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
 2. (http://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php)
 3. (http://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php)
