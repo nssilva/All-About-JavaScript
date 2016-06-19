@@ -15,6 +15,10 @@ This is a markdown file so for check just add a x inside the brackets
   - [ ] [JavaScript for Cats] (http://jsforcats.com/) [Free]
   - [ ] [Speaking JavaScript] (http://speakingjs.com/es5/) [Free]
 
+- Podcasts
+  - [ ] [JavaScript Air] (https://javascriptair.com/) [Free]
+  - [ ] [JavaScript Jabber] (https://devchat.tv/js-jabber) [Free]
+
 # Intermediate
 
 ## After you learn the syntax time to be there.
@@ -22,6 +26,7 @@ This is a markdown file so for check just add a x inside the brackets
 - Courses 
   - [ ] [WhatchAndCode] (http://watchandcode.com/) [Free]
   - [ ] [Functional Programming in JavaScript] (https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) [Free]
+  - [ ] [Javascript is Weird...and AWESOME] (https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_) [Free]
  
 - Books
   - [ ] [Eloquent JavaScript] (http://eloquentjavascript.net/) [Free]
@@ -48,3 +53,9 @@ This is a markdown file so for check just add a x inside the brackets
     - [ ] [Getting Started with Redux] (https://egghead.io/series/getting-started-with-redux) [Free]
     - [ ] [Rally Coding Channel on Youtube] (https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg)[Free]
   
+# About Meteor
+  - Tutorials
+    - [ ] [Social Network with Meteor and React] (https://www.youtube.com/playlist?list=PLKfAG4yMwKkSTkCFX7HXG5GAN-fvGAQqY) [Free]
+    - [ ] [Meteor For Everyone Tutorial] (https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV) [Free]
+    - [ ] [Intermediate Meteor] (https://www.youtube.com/playlist?list=PLLnpHn493BHFYZUSK62aVycgcAouqBt7V) [Free]
+
