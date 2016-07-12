@@ -4,6 +4,8 @@
 
 1. [Links for learning JavaScript] (https://github.com/FreeCodeCampCalgary/All-About-JavaScript/blob/master/Links.md)
 2. A good way to learn JavaScript is learn to [jQuery] (https://jquery.com/) first
+3. A good place to see code and learn is Github. Take time to check so project you like and his code. This is a awesome learning experience.
+4. Take a look at [TodoMvc](http://todomvc.com/) website. You can see todo app but with every framework.
 
 
 ## Improve your skill
@@ -57,6 +59,8 @@
 2. [Koa] (http://koajs.com/)
 3. [Meteor] (https://www.meteor.com/) [Beginner Friendly]
 4. [Ember] (http://emberjs.com/) [Beginner Friendly]
+5. [Horizon] (http://horizon.io/)
+6. [Feathers] (http://feathersjs.com/) [Come from Calgary]
 
 ## View (only) Framework/Library
 1. [Angular] (https://angularjs.org/)
