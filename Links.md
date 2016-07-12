@@ -12,6 +12,7 @@ This is a markdown file so for check just add a x inside the brackets
   - [ ] [JavaScript Tutorials] (https://www.youtube.com/playlist?list=PL46F0A159EC02DF82) [Free]
 
 - Blogs
+  - [ ] [RainSoft] (http://rainsoft.io/)
   - [ ] [Emanuel Quimper] (equimper.github.io) [ Yes this is mine ;) ] 
   - [ ] [David Walsh] (https://davidwalsh.name/) [Not just about js]
   - [ ] [DailyJS] (http://dailyjs.com/)
