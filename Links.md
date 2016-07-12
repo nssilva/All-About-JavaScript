@@ -11,6 +11,12 @@ This is a markdown file so for check just add a x inside the brackets
   - [ ] [JavaScript Fundamentals] (https://www.youtube.com/playlist?list=PLoYCgNOIyGACTDHuZtn0qoBdpzV9c327V) [Free]
   - [ ] [JavaScript Tutorials] (https://www.youtube.com/playlist?list=PL46F0A159EC02DF82) [Free]
 
+- Blogs
+  - [ ] [Emanuel Quimper] (equimper.github.io) [ Yes this is mine ;) ] 
+  - [ ] [David Walsh] (https://davidwalsh.name/) [Not just about js]
+  - [ ] [DailyJS] (http://dailyjs.com/)
+  - [ ] [Medium] (https://medium.com/) [Have a lot of good articles]
+
 - Books
   - [ ] [JavaScript for Cats] (http://jsforcats.com/) [Free]
   - [ ] [Speaking JavaScript] (http://speakingjs.com/es5/) [Free]
