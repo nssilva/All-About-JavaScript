@@ -34,6 +34,7 @@ This is a markdown file so for check just add a x inside the brackets
   - [ ] [WhatchAndCode] (http://watchandcode.com/) [Free]
   - [ ] [Functional Programming in JavaScript] (https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) [Free]
   - [ ] [Javascript is Weird...and AWESOME] (https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_) [Free]
+  - [ ] [Asynchronous JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jAhrjtZ9U93UMIhnCc44MH) [Free]
  
 - Books
   - [ ] [Eloquent JavaScript] (http://eloquentjavascript.net/) [Free]
@@ -44,6 +45,7 @@ This is a markdown file so for check just add a x inside the brackets
 # About Node
   - Courses
     - [ ] [Node.js Tutorials] (https://www.youtube.com/playlist?list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh) [Free]
+    - [ ] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs&list=WL&index=8) [Free]
   - Books
     - [ ] [Up and running with Node.js] (http://chimera.labs.oreilly.com/books/1234000001808/index.html) [Free]
 
