@@ -50,6 +50,9 @@ This is a markdown file so for check just add a x inside the brackets
  ---
  
 # About Node
+  - Articles & Tutorials
+      - [ ] [Scotch.io Keeping API Routing Clean Using Express Routers](https://scotch.io/tutorials/keeping-api-routing-clean-using-express-routers)
+      - [ ] [Scotch.io Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4) 
   - Courses
     - [ ] [Node.js Tutorials] (https://www.youtube.com/playlist?list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh) [Free]
     - [ ] [ExpressJS Crash Course](https://www.youtube.com/watch?v=gnsO8-xJ8rs&list=WL&index=8) [Free]
@@ -71,9 +74,12 @@ This is a markdown file so for check just add a x inside the brackets
 
 # About React-Native
   - Articles & Tutorials
-      - [] [Differential's Blog - Easily Connect React Native to a Meteor Server](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
-      - [] [Adding Custom Fonts to A React Native Application for IOS](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.pkgz2jhtr)
-      - [] [React Native Navigator — Navigating Like A Pro in React Native](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.gtbt2ky5s)
+      - [ ] [Differential's Blog - Easily Connect React Native to a Meteor Server](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
+      - [ ] [Adding Custom Fonts to A React Native Application for IOS](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.pkgz2jhtr)
+      - [ ] [React Native Navigator — Navigating Like A Pro in React Native](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.gtbt2ky5s)
+    
+  - Courses
+    - [ ] [Stephen Grider - Build Apps with React Native](https://www.udemy.com/reactnative/)
   
 # About Redux
   - Articles & Tutorials
