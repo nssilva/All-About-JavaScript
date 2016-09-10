@@ -58,6 +58,12 @@ This is a markdown file so for check just add a x inside the brackets
     - [ ] [SurviveJs] (http://survivejs.com/) [Free]
   
 # About Redux
+  - Articles & Tutorials
+    - [ ] [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)  
+    - [ ] [Confused! Redux or MobX?](https://www.reddit.com/r/reactjs/comments/4npzq5/confused_redux_or_mobx/)
+    - [ ] [Getting Started with Redux: An Intro](https://scotch.io/bar-talk/getting-started-with-redux-an-intro)
+    - [ ] [Making sense of Redux](https://medium.freecodecamp.com/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca#.70bavgpl1)
+
   - Courses
     - [ ] [Getting Started with Redux] (https://egghead.io/series/getting-started-with-redux) [Free]
     - [ ] [Rally Coding Channel on Youtube] (https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg)[Free]
