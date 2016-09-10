@@ -30,6 +30,13 @@ This is a markdown file so for check just add a x inside the brackets
 
 ## After you learn the syntax time to be there.
 
+- Articles & Tutorials
+  - [ ] [Functional programming in Javascript: map, filter and reduce](http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/)
+  - [ ] [RainSoft - How three dots changed JavaScript](https://rainsoft.io/how-three-dots-changed-javascript/)
+  - [ ] [A Drip Of Javascript - Filtering Arrays with Array#filter](http://adripofjavascript.com/blog/drips/filtering-arrays-with-array-filter)
+  - [ ] [JavaScript’s Map, Reduce, and Filter](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)
+  - [ ] [Functional JavaScript](http://functionaljavascript.blogspot.ca/2013/07/functors.html)
+
 - Courses 
   - [ ] [WhatchAndCode] (http://watchandcode.com/) [Free]
   - [ ] [Functional Programming in JavaScript] (https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) [Free]
@@ -50,12 +57,23 @@ This is a markdown file so for check just add a x inside the brackets
     - [ ] [Up and running with Node.js] (http://chimera.labs.oreilly.com/books/1234000001808/index.html) [Free]
 
 # About React
+  - Articles & Tutorials
+    - [ ] [React ES6 class constructor super()](http://cheng.logdown.com/posts/2016/03/26/683329) [Must Read]
+    - [ ] [Common React.js mistakes: Unneeded state](http://reactkungfu.com/2015/09/common-react-dot-js-mistakes-unneeded-state/) [Must Read]
+    - [ ] [React Lifecycle methods diagram](https://medium.com/@eddychang_86557/react-lifecycle-methods-diagram-38ac92bb6ff1#.n32v4fhqd)
+
   - Courses
     - [ ] [React For Everyone] (https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p) [Free]
     - [ ] [React JS Tutorials] (https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) [Free]
   
   - Books
     - [ ] [SurviveJs] (http://survivejs.com/) [Free]
+
+# About React-Native
+  - Articles & Tutorials
+      - [] [Differential's Blog - Easily Connect React Native to a Meteor Server](http://blog.differential.com/easily-connect-react-native-to-a-meteor-server/)
+      - [] [Adding Custom Fonts to A React Native Application for IOS](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f#.pkgz2jhtr)
+      - [] [React Native Navigator — Navigating Like A Pro in React Native](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.gtbt2ky5s)
   
 # About Redux
   - Articles & Tutorials
@@ -69,8 +87,10 @@ This is a markdown file so for check just add a x inside the brackets
     - [ ] [Rally Coding Channel on Youtube] (https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg)[Free]
   
 # About Meteor
-  - Tutorials
+  - Articles & Tutorials
     - [ ] [Social Network with Meteor and React] (https://www.youtube.com/playlist?list=PLKfAG4yMwKkSTkCFX7HXG5GAN-fvGAQqY) [Free]
     - [ ] [Meteor For Everyone Tutorial] (https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV) [Free]
     - [ ] [Intermediate Meteor] (https://www.youtube.com/playlist?list=PLLnpHn493BHFYZUSK62aVycgcAouqBt7V) [Free]
-
+    - [ ] [The Meteor Chef - Publication and Subscription Patterns](https://themeteorchef.com/snippets/publication-and-subscription-patterns/) [Must Read]
+    - [ ] [The Meteor Chef - Methods](https://themeteorchef.com/snippets/methods/)
+    - [ ] [The Meteor Chef - Using the Collection2 Package](https://themeteorchef.com/snippets/using-the-collection2-package/)
