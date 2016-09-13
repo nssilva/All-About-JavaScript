@@ -61,10 +61,10 @@
 4. [Ember] (http://emberjs.com/) [Beginner Friendly]
 5. [Horizon] (http://horizon.io/)
 6. [Feathers] (http://feathersjs.com/) [Come from Calgary]
+7. [Angular] (https://angularjs.org/)
 
 ## View (only) Framework/Library
-1. [Angular] (https://angularjs.org/)
-2. [React] (https://facebook.github.io/react/index.html)
-3. [Vue] (http://vuejs.org/) [Beginner Friendly]
+1. [React] (https://facebook.github.io/react/index.html)
+2. [Vue] (http://vuejs.org/) [Beginner Friendly]
 
 ## Want to add more links ? Just create a issues and I'm gonna add it if this is useful.
