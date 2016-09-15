@@ -71,6 +71,17 @@ This is a markdown file so for check just add a x inside the brackets
   
   - Books
     - [ ] [SurviveJs] (http://survivejs.com/) [Free]
+  
+  - Videos
+    - [ ] [LevelUpTuts - Meteor & React For Everyone ](https://www.youtube.com/watch?v=ootKAwnQiP4)
+    - [ ] [React events in depth w/ Kent C. Dodds, Ben Alpert, & Dan Abramov](https://www.youtube.com/watch?v=dRo_egw7tBc)
+    - [ ] [Rally Coding - Integration with Third Party Libraries](https://www.youtube.com/watch?v=GWVjMHDKSfU)
+    - [ ] [Rally Coding - BrowserHistory in Production](https://www.youtube.com/watch?v=cdUyEou0LHg)
+    - [ ] [Rally Coding - Animation of React Components](https://www.youtube.com/watch?v=npvQX53YuCs)
+    - [ ] [Getting Started with React and Firebase - Firecasts](https://www.youtube.com/watch?v=mwNATxfUsgI)
+    - [ ] [Getting Started with React and Firebase, Part 2 - Firecasts](https://www.youtube.com/watch?v=p4XTMvagQ2Q)
+    - [ ] [React.js Conf 2016 - Rich Text Editing with React](https://www.youtube.com/watch?v=feUYwoLhE_4)
+    - [ ] [Start Reacting: Component Lifecycle Methods](https://www.youtube.com/watch?v=OUfBTtnZaeQ) 
 
 # About React-Native
   - Articles & Tutorials
@@ -80,6 +91,9 @@ This is a markdown file so for check just add a x inside the brackets
     
   - Courses
     - [ ] [Stephen Grider - Build Apps with React Native](https://www.udemy.com/reactnative/)
+
+  - Videos
+    - 
   
 # About Redux
   - Articles & Tutorials
@@ -91,6 +105,17 @@ This is a markdown file so for check just add a x inside the brackets
   - Courses
     - [ ] [Getting Started with Redux] (https://egghead.io/series/getting-started-with-redux) [Free]
     - [ ] [Rally Coding Channel on Youtube] (https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg)[Free]
+    - 
+  - Videos
+    - [ ] [Rally Coding - The Best Way to Store Data](https://www.youtube.com/watch?v=aJxcVidE0I0)
+    - [ ] [Rally Coding - A Better Way to Load Data](https://www.youtube.com/watch?v=JicUNpwLzLY)
+    - [ ] [Rally Coding - Basics of Redux Thunk](https://www.youtube.com/watch?v=1QI-UE3-0PU&feature=youtu.be)
+    - [ ] [Rally Coding - React/Redux Logicless Components with Reselect](https://www.youtube.com/watch?v=XCQ0ZSr-a2o)
+    - [ ] [Rally Coding - Dynamic Forms with Redux Form](https://www.youtube.com/watch?v=6C22gwvOzaw)
+    - [ ] [Rally Coding - Modals in React and Redux Apps](https://www.youtube.com/watch?v=WGjv-p9jYf0)
+    - [ ] [Rally Coding - Combining Redux and Firebase](https://www.youtube.com/watch?v=UHJq5NOtNG4)
+    - [ ] [Rally Coding - Four Most Common Errors with React/Redux](https://www.youtube.com/watch?v=IFMzqPDo6o4)
+    - [ ] [React State Management with Redux webinar with @Srijan Technologies](https://www.youtube.com/watch?v=7iTfcF1kNxc)]
   
 # About Meteor
   - Articles & Tutorials
