@@ -91,9 +91,6 @@ This is a markdown file so for check just add a x inside the brackets
     
   - Courses
     - [ ] [Stephen Grider - Build Apps with React Native](https://www.udemy.com/reactnative/)
-
-  - Videos
-    - 
   
 # About Redux
   - Articles & Tutorials
@@ -105,7 +102,7 @@ This is a markdown file so for check just add a x inside the brackets
   - Courses
     - [ ] [Getting Started with Redux] (https://egghead.io/series/getting-started-with-redux) [Free]
     - [ ] [Rally Coding Channel on Youtube] (https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg)[Free]
-    - 
+  
   - Videos
     - [ ] [Rally Coding - The Best Way to Store Data](https://www.youtube.com/watch?v=aJxcVidE0I0)
     - [ ] [Rally Coding - A Better Way to Load Data](https://www.youtube.com/watch?v=JicUNpwLzLY)
