@@ -67,4 +67,8 @@
 1. [React] (https://facebook.github.io/react/index.html)
 2. [Vue] (http://vuejs.org/) [Beginner Friendly]
 
+## State Manager
+1. [Redux](http://redux.js.org/)
+2. [MobX](https://mobxjs.github.io/mobx/)
+
 ## Want to add more links ? Just create a issues and I'm gonna add it if this is useful.
