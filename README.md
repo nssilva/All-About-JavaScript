@@ -72,3 +72,6 @@
 2. [MobX](https://mobxjs.github.io/mobx/)
 
 ## Want to add more links ? Just create a issues and I'm gonna add it if this is useful.
+
+Don't hesitate to ask question in the Facebook group.
+
